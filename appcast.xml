@@ -1,6 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-  <channel>
-    <title>RecMyScreen</title>
-  </channel>
+    <channel>
+        <title>RecMyScreen</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Mon, 13 Apr 2026 15:57:18 +0000</pubDate>
+            <sparkle:version>63</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/clarifyapp/clarify_macapp_releases/releases/download/v63/RecMyScreen-63.zip" length="2304667" type="application/octet-stream" sparkle:edSignature="qYPz4IT1oSmRrIx2DGSmke7ngLWEtJ1YHP39XjP/Mkjif5eG2g60/2VV4FRVBrqu3hY/zkuVwgfUiJgCnHb6Bg=="/>
+        </item>
+    </channel>
 </rss>
