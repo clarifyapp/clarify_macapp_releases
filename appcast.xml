@@ -4,6 +4,14 @@
         <title>RecMyScreen</title>
         <item>
             <title>1.0</title>
+            <pubDate>Tue, 14 Apr 2026 13:55:38 +0000</pubDate>
+            <sparkle:version>76</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/clarifyapp/clarify_macapp_releases/releases/download/v76/Clarify-76.zip" length="2575665" type="application/octet-stream" sparkle:edSignature="5APiscYNCYGQG54mlRDmDkCC408/85Dwm3i/uT1Rn2CjQxyL8xokMzJmZu3gXVRjT17Ee8y9M/N2FsYJ+7CaAw=="/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Tue, 14 Apr 2026 13:48:10 +0000</pubDate>
             <sparkle:version>75</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/clarifyapp/clarify_macapp_releases/releases/download/v74/Clarify-74.zip" length="2575486" type="application/octet-stream" sparkle:edSignature="uocyt+jYiHmjO8EkaQwau2MVydj1RgZaVVjHlwt9oTwyZOPZzEHVHb2B9zKf0oY+LK7G1+n00ttNZM+Zcip+Ag=="/>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Tue, 14 Apr 2026 12:33:39 +0000</pubDate>
-            <sparkle:version>73</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/clarifyapp/clarify_macapp_releases/releases/download/v73/Clarify-73.zip" length="2579483" type="application/octet-stream" sparkle:edSignature="dm16DdtECN2vROwkbsC0Hh+nzYhVYTx/XxVNLJgyTdWZrhKDSRSy6rMO4JjuP+w8pdyg6KwfBchWXdNcyBL4DA=="/>
         </item>
     </channel>
 </rss>
