@@ -4,6 +4,14 @@
         <title>RecMyScreen</title>
         <item>
             <title>1.0</title>
+            <pubDate>Mon, 18 May 2026 15:16:10 +0000</pubDate>
+            <sparkle:version>103</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/clarifyapp/clarify_macapp_releases/releases/download/v103/Stapler-103.zip" length="5975169" type="application/octet-stream" sparkle:edSignature="h1VMnwTMwpz02GYn9KrQyqkl6yjUlnqyOjxzfz9mdNGL6An0xUOfSCsw7lIn2V3aUvCVmx5/x0ao/yO21NwNDA=="/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Mon, 18 May 2026 14:10:03 +0000</pubDate>
             <sparkle:version>102</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
