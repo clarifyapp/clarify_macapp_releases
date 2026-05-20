@@ -4,6 +4,14 @@
         <title>RecMyScreen</title>
         <item>
             <title>1.0</title>
+            <pubDate>Wed, 20 May 2026 14:27:32 +0000</pubDate>
+            <sparkle:version>112</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/clarifyapp/clarify_macapp_releases/releases/download/v112/Stapler-112.zip" length="6003875" type="application/octet-stream" sparkle:edSignature="S/oWWyaeIEulQ46CC9nq8c9Y1HJ7DYAcOQv+XfuZmT1aPCT2RMMhZpfJo0aVye7LZJq4t8Y2j7Uc9Xx/6qJrAw=="/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Wed, 20 May 2026 11:18:14 +0000</pubDate>
             <sparkle:version>111</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/clarifyapp/clarify_macapp_releases/releases/download/v110/Stapler-110.zip" length="5946838" type="application/octet-stream" sparkle:edSignature="rNvq1O59e1d0ek8ZKO+SfEsk7fN6hv90HrcZGoa0mAoh4wiSrhfsjghKedx8JRZmzj5ITQv5J4Q/5Y0h0EMqAg=="/>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Tue, 19 May 2026 10:15:18 +0000</pubDate>
-            <sparkle:version>109</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/clarifyapp/clarify_macapp_releases/releases/download/v109/Stapler-109.zip" length="5929593" type="application/octet-stream" sparkle:edSignature="xWazvlPefrPh/7YzoOFKFWNVNU1BEVTohkMFNiSpEulJVbrZDaegYYsG9Fm6ULq/Ny3GP+TDktSehvjqkH86AA=="/>
         </item>
         <item>
             <title>1.0</title>
